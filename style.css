@@ -1,0 +1,50 @@
+.form {
+    width: 30%;
+    height: 50%;
+    position: absolute;
+    padding: 2.0%;
+    margin-left: 32.5%;
+    margin-top: 6%;
+    background-color: white;
+
+}
+
+button {
+    height: 40px;
+    width: 80px;
+    background-color: blue;
+    float: right;
+    color: white;
+    font-size: 1.1rem;
+}
+
+.last {
+    background-color: white;
+    text-align: center;
+    height: 18%;
+    align-content: center;
+    margin-top: 250px;
+    display: flex;
+margin-right: -27px;
+margin-left: -27px;
+
+
+
+
+
+
+}
+body{
+    background-color: lavender;
+}
+@media screen and (max-width: 600px){
+    .form{
+        background-color: white;
+        display: flex;
+        color: blue;
+    }
+     
+        
+      
+    }
+    
